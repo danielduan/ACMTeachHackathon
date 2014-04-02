@@ -1,0 +1,35 @@
+body {
+  background-color: #bdc3c7;
+}
+
+#content {
+  width:600px;
+  margin: 0 auto;
+  background-color: white;
+  padding:15px;
+}
+
+.descparagraph {
+  width: 400px;
+  /*display: inline-block;*/
+  text-align: center;
+}
+
+#intro {
+  position: relative;
+  /*
+  top:50px;
+  left: 10px;
+  */
+}
+
+#logo {
+  width:250px;
+}
+.floatright {
+  float:left;
+}
+
+.clear {
+  clear:both;
+}
