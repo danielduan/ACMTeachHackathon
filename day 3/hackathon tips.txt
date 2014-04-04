@@ -1,0 +1,31 @@
+hackathon tips:
+what is a hackathon
+plan project ahead of time
+save time for demo
+always go for mvp first
+take naps during downtime
+parallelize project
+
+hackathon resources:
+flat ui colors
+github
+dribbble
+behance
+Google webfonts
+google search
+view page source
+bootstrap/foundation/html5up
+http://bootsnipp.com/
+http://www.cssflow.com/
+DeviantArt, portfolio site for all artsy people - www.deviantart.com
+Places to find stock photos: https://medium.com/p/62ae4bcbe01b
+
+learning resources:
+codecademy
+stackoverflow
+
+http://www.willa.me/2013/11/the-six-most-common-species-of-code.html
+http://www.davemercurio.com/hackathon/workshop.html
+http://www.davemercurio.com/waterloo/index.phps
+http://paulisageek.com/webintro/
+
